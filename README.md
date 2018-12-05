@@ -1,7 +1,5 @@
 # ITS450-project
-project
-hi
 
-gurleen khatra
-mira veljovich
-Michael Robert McCue the first
+Gurleen Khatra
+Mira Veljovich
+Michael Robert McCue
